@@ -18,7 +18,6 @@ def insertion_sort_descending(arr):
         arr[j + 1] = key
     return arr
 
-# main
 if __name__ == "__main__":
     sample_array = [8, 2, 4, 1, 3]
     print("Original array:", sample_array)
